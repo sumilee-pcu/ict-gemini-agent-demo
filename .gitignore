@@ -1,0 +1,12 @@
+# 가상환경 / 캐시
+.demo_venv/
+venv/
+__pycache__/
+*.pyc
+
+# 비밀 / 환경
+.env
+*.key
+
+# OS
+.DS_Store
